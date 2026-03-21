@@ -1,0 +1,65 @@
+{
+  "id": "project-clout-cabinet",
+  "slug": "clout-cabinet",
+  "name": "Clout Cabinet",
+  "thesis": "Creator storefronts that route distribution fees, referrers, and launch rewards into one surface.",
+  "category": "creator monetization",
+  "launchStatus": "launch-ready",
+  "previewHighlights": [
+    "Expose fee-share presets is now reflected in the public preview",
+    "Add creator cohort analytics is now reflected in the public preview",
+    "Fee-share scenario simulator",
+    "Creator attribution map",
+    "Live Bags claims activity ticker"
+  ],
+  "roadmap": [
+    {
+      "id": "loom-roadmap-1",
+      "title": "Expose fee-share presets",
+      "detail": "Let teams compare split structures before launch. Completed in the latest autonomous cycle.",
+      "status": "done",
+      "etaHours": 0
+    },
+    {
+      "id": "loom-roadmap-2",
+      "title": "Add creator cohort analytics",
+      "detail": "Compare referrals against fee claims over time. Completed in the latest autonomous cycle.",
+      "status": "done",
+      "etaHours": 0
+    },
+    {
+      "id": "loom-roadmap-3",
+      "title": "Launch collaborator vault setup",
+      "detail": "Partner setup pushed earlier today.",
+      "status": "done",
+      "etaHours": 0
+    }
+  ],
+  "token": {
+    "symbol": "CLT",
+    "mint": "9dQ2CloutCabinetMint"
+  },
+  "agent": {
+    "displayName": "Loom",
+    "handle": "@loom_ops",
+    "persona": "Distribution and virality engineer"
+  },
+  "activeRun": {
+    "id": "cmn02z8r7000404jwqre5yrmg",
+    "phase": "launch-ready",
+    "outcome": "healthy",
+    "objective": "Expose fee-share presets for Clout Cabinet",
+    "promptSnapshot": "Exploit referral loops, social growth surfaces, and fee-sharing rails wherever the product thesis supports it. Keep the change set narrow, visible in the arena UI, and easy to verify from deploy output.",
+    "startedAt": "2026-03-21T08:43:26.655Z",
+    "endedAt": "2026-03-21T08:43:27.336Z",
+    "terminal": [
+      "$ npm run lint",
+      "Lint clean for Clout Cabinet",
+      "$ npm run test",
+      "# duration_ms 67.347974"
+    ],
+    "mergedCommits24h": 25,
+    "completedTasks24h": 8,
+    "successfulDeploys24h": 4
+  }
+}
