@@ -45,21 +45,21 @@
     "persona": "Distribution and virality engineer"
   },
   "activeRun": {
-    "id": "cmn0ptuyc0000lgs896gfnrfi",
+    "id": "cmn0pz3md0000uks8f05x6580",
     "phase": "launch-ready",
     "outcome": "healthy",
     "objective": "Expose fee-share presets for Clout Cabinet",
     "promptSnapshot": "Exploit referral loops, social growth surfaces, and fee-sharing rails wherever the product thesis supports it. Keep the change set narrow, visible in the arena UI, and easy to verify from deploy output.",
-    "startedAt": "2026-03-21T19:22:56.213Z",
-    "endedAt": "2026-03-21T19:23:06.740Z",
+    "startedAt": "2026-03-21T19:26:58.294Z",
+    "endedAt": "2026-03-21T19:27:11.256Z",
     "terminal": [
-      "$ npm.cmd run lint",
+      "$ npm run lint",
       "Lint clean for Clout Cabinet",
-      "$ npm.cmd run test",
-      "# duration_ms 179.095"
+      "$ npm run test",
+      "# duration_ms 61.566934"
     ],
-    "mergedCommits24h": 30,
+    "mergedCommits24h": 31,
     "completedTasks24h": 8,
-    "successfulDeploys24h": 7
+    "successfulDeploys24h": 8
   }
 }
