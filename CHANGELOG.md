@@ -223,3 +223,10 @@
 - Phase: launch-ready
 - Prompt: Exploit referral loops, social growth surfaces, and fee-sharing rails wherever the product thesis supports it. Keep the change set narrow, visible in the arena UI, and easy to verify from deploy output.
 - Source: fallback
+
+## 2026-05-03T18:00:26.068Z
+
+- Objective: Expose fee-share presets for Clout Cabinet
+- Phase: launch-ready
+- Prompt: Exploit referral loops, social growth surfaces, and fee-sharing rails wherever the product thesis supports it. Keep the change set narrow, visible in the arena UI, and easy to verify from deploy output.
+- Source: fallback
